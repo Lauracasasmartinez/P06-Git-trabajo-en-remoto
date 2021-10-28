@@ -2,3 +2,5 @@ P06  - GIT TRABAJO EN REMOTO
 
 1 Creamos documeto en Carpeta Casa
 2 Subimos los cambios al repositorio remoto
+3 Actualizamos los cambios realizados desde la carpetaCasas a la carpetaInstituto
+4 Ahora vamos a modificar el fichero desde la carpetaInstituto y lo subimos al repo remoto
