@@ -1,0 +1,4 @@
+P06  - GIT TRABAJO EN REMOTO
+
+1 Creamos documeto en Carpeta Casa
+2 Subimos los cambios al repositorio remoto
